@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OBD2_Simulator", "OBD2_Simulator.csproj", "{37F060B0-B4C6-4ECF-9CCF-AA398A13AA29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37F060B0-B4C6-4ECF-9CCF-AA398A13AA29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F060B0-B4C6-4ECF-9CCF-AA398A13AA29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F060B0-B4C6-4ECF-9CCF-AA398A13AA29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F060B0-B4C6-4ECF-9CCF-AA398A13AA29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22C68FEC-70BE-4F6A-80E9-DF7A65F96432}
+	EndGlobalSection
+EndGlobal
