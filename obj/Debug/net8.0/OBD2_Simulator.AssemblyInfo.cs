@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OBD2_Simulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4442755d762a9f493166b39aeab7f48f34365706")]
 [assembly: System.Reflection.AssemblyProductAttribute("OBD2_Simulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OBD2_Simulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
